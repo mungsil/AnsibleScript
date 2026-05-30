@@ -1,5 +1,5 @@
 ---
-# common.yaml
+# node-prerequisites.yaml
 # 대상: workers 그룹 전체
 # 목적: containerd 설치 및 설정, kubeadm/kubelet/kubectl 설치
 
