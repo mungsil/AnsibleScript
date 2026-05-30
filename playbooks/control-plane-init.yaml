@@ -2,7 +2,7 @@
 # control-plane-init.yaml
 # 대상: control_plane
 # 목적: kubeadm init, kubeconfig 설정, Calico CNI 설치
-# 전제조건: common.yaml 실행 완료
+# 전제조건: node-prerequisites 실행 완료
 # 참고: hands-on Creating a cluster with kubeadm 문서 기반
 
 - name: (Demo) Initialize Kubernetes control plane
