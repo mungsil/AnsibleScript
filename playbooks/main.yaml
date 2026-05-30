@@ -1,0 +1,4 @@
+---
+- import_playbook: node-prerequisites.yaml
+- import_playbook: control-plane-init.yaml
+- import_playbook: worker-join.yaml
